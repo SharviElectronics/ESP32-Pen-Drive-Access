@@ -10,6 +10,14 @@ https://sharvielectronics.com/product/esp32-wroom-32e-development-board-with-dir
 
 ![alt text](https://sharvielectronics.com/wp-content/uploads/2023/07/ESP32-WROOM-32E-Development-Board-With-Direct-Pen-Drive-Access-Sharvielectronics-1.jpg)
 
+# Pinout
+![alt text](https://github.com/SharviElectronics/ESP32-Pen-Drive-Access/blob/main/ESP32_CH.jpg)
+
+# Circuit
+![alt text](https://github.com/SharviElectronics/ESP32-Pen-Drive-Access/blob/main/Screenshot%202025-06-18%20214342.jpg)
+
+
+
 # Acknowledgments
 Thanks for the idea to Scott C (https://arduinobasics.blogspot.com/2015/05/ch376s-usb-readwrite-module.html)
 
