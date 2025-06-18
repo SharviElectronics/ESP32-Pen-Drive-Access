@@ -7,6 +7,7 @@ For portable and low-power use cases, the board includes a TP4056 charging circu
 
 # Acknowledgments
 Thanks for the idea to Scott C (https://arduinobasics.blogspot.com/2015/05/ch376s-usb-readwrite-module.html)
+
 Thanks for the idea to György Kovács (https://github.com/djuseeq/Ch376msc)
 
 # Extra Library 
