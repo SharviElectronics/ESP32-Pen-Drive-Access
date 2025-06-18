@@ -4,3 +4,13 @@ The ESP32-WROOM-32E Development Board with Direct Pen Drive Access is a compact 
 For portable and low-power use cases, the board includes a TP4056 charging circuit with built-in protection, enabling seamless charging of a single-cell Li-ion or Li-Po battery. A modern USB Type-C connector allows for easy programming and power input, while full access to ESP32’s GPIOs makes it ideal for sensors, actuators, and user interfaces.
 
 ![alt text](https://sharvielectronics.com/wp-content/uploads/2023/07/ESP32-WROOM-32E-Development-Board-With-Direct-Pen-Drive-Access-Sharvielectronics-1.jpg)
+
+# Acknowledgments
+Thanks for the idea to Scott C (https://arduinobasics.blogspot.com/2015/05/ch376s-usb-readwrite-module.html)
+Thanks for the idea to György Kovács (https://github.com/djuseeq/Ch376msc)
+
+# Extra Library 
+You need to add this library to Arduino Ide
+
+https://github.com/djuseeq/Ch376msc
+
